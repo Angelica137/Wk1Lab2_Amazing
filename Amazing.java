@@ -2,8 +2,8 @@
 /**
  * A class to hold the declarations and Expressions
  * 
- * @author (your name)
- * @version (a version number or a date)
+ * @author Angelica
+ * @version 14 March 2021
  */
 public class Amazing {
 	// Put your data type declarations below. Here is an example

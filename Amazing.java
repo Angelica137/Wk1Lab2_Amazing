@@ -19,4 +19,11 @@ public class Amazing {
 		x = 5 * x - n / 5;
 
 	}// End of doCalculations
+
+	public void displayValues() {
+		// display the values of the variable
+		System.out.println(y);
+		System.out.println(m);
+		System.out.println(x);
+	}
 }

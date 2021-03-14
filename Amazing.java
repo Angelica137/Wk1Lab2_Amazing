@@ -14,6 +14,9 @@ public class Amazing {
 
 	// Put the code for your calculations in this method.
 	void doCalculations() {
+		y = x + n * y - (x + n) * y;
+		m = m / n + m % n;
+		x = 5 * x - n / 5;
 
 	}// End of doCalculations
 }
